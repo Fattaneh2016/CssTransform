@@ -46,7 +46,7 @@ div::before, div::after {
 	background: #fefeff;
 	border-radius: 5px;
 	z-index: -1;
-	transform: rotate(-10deg);
+	transform: rotate(-2deg);
 	box-shadow: 0 2px 5px rgba(0,0,0,.1);
 	outline:1px solid red;
 }
